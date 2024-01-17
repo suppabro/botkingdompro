@@ -644,7 +644,7 @@ module.exports = {
                                 console.error(e)
                             }
                         }
-                        if (m.limit) m.reply(+ m.limit + ' Please Wait')
+                        if (m.limit) m.reply(+ m.limit + ' wait')
                    }
                     break
                 }
