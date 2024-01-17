@@ -1,1 +1,1 @@
-worker: node . --autocleartmp 
+worker: npm start
